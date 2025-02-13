@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: explorer
+  namespace: space
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: explorer
+  template:
+    metadata:
+      labels:
+        app: explorer
+    spec:
+      containers:
+        - name: explorer
+          image: dsousaveras/explorer:latest
+          env:
+            - name: CONTROL_CENTER_URL
+              value: "http://control-center-service:5000"

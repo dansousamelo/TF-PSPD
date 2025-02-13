@@ -1,0 +1,11 @@
+id,name,size_km,speed_kmh,impact_chance,location
+1,MeteorX,0.5,25000,0.01,Brasil
+2,AstroZ,2.0,40000,0.05,EUA
+3,CometQ,1.2,32000,0.03,China
+4,RockStar,3.8,50000,0.10,Rússia
+5,DustStorm,0.3,20000,0.001,Índia
+6,SuperMeteor,5.0,70000,0.15,Austrália
+7,NeonComet,2.5,45000,0.07,Canadá
+8,MegaAstro,10.0,90000,0.20,Japão
+9,HyperRock,8.2,80000,0.18,México
+10,TinyDust,0.1,10000,0.0005,Argentina
