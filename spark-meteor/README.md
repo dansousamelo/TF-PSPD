@@ -8,11 +8,10 @@ Este projeto realiza análise de meteoros usando **Apache Spark**. Ele lê um co
 
 ```
 spark-meteor-analysis/
-│── create_dataset.py       # Script para gerar um dataset de meteoros
 │── Dockerfile              # Configuração para execução em contêiner
 │── meteor_analysis.py      # Script principal para análise dos meteoros
 │── meteors-example.csv     # Exemplo de dataset de meteoros
-│── meteors.csv             # Dataset principal
+│── meteors.csv             # Dataset principal (exemplo apenas, ver relatório)
 │── spark-pv-pvc.yaml       # Configuração de volume persistente no Kubernetes
 ```
 
