@@ -27,12 +27,6 @@ Cada projeto explora conceitos fundamentais de computação distribuída, parale
 - Docker & Kubernetes
 - Prometheus para monitoramento
 
-**Execução**:
-
-```sh
-kubectl apply -f deployment/
-```
-
 ---
 
 ### 2. MPI-OMP Space Exploration
@@ -43,12 +37,6 @@ kubectl apply -f deployment/
 
 - C (MPI + OpenMP)
 - Docker & Kubernetes
-
-**Execução**:
-
-```sh
-mpirun -np 4 ./space_exploration
-```
 
 ---
 
@@ -61,12 +49,6 @@ mpirun -np 4 ./space_exploration
 - Apache Spark
 - Python
 - Docker & Kubernetes
-
-**Execução**:
-
-```sh
-python meteor_analysis.py
-```
 
 ---
 
