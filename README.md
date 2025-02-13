@@ -1,4 +1,10 @@
-# 🚀 Space Exploration Projects
+<p align="center">
+  <h1>🚀 Space Exploration Projects</h1>
+  
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/Technologies-Kubernetes%20%7C%20MPI%20%7C%20OMP%20%7C%20Spark-blue" alt="Technologies" />
+  <img src="https://img.shields.io/badge/Disciplina-PSPD-lightgreen" alt="PSPD" />
+</p>
 
 ## 🌌 Visão Geral
 
